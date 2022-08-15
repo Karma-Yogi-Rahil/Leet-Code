@@ -13,7 +13,7 @@ Solving LeetCode problems
 | 20| 10| 0|
 
 
-### [Level 2
+### [Level 2]()
 
 ### Avg. 2～3 problems / day ｜ 20 day
 
