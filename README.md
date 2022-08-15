@@ -20,7 +20,7 @@ Solving LeetCode problems
 | 11| 32| 2|
 
 
-###  [Level 3](https://github.com/from-iqwerty-import-IQ/Leet-Code/blob/main/LeetCode%2075/Level%203.md)   -> [[Level 3]]
+###  [[Level 3]] -   [Level 3](https://github.com/from-iqwerty-import-IQ/Leet-Code/blob/main/LeetCode%2075/Level%203.md)   -> 
 
 | Easy| Medium| Hard|
 |--------------|:-----:|-----------:|
