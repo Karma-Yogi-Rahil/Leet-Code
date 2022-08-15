@@ -15,7 +15,9 @@ Solving LeetCode problems
 
 ### [Level 2]()
 
-### Avg. 2～3 problems / day ｜ 20 day
+| Easy| Medium| Hard|
+|--------------|:-----:|-----------:|
+| 20| 10| 0|
 
 Easy
 
