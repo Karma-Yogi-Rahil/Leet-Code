@@ -13,8 +13,7 @@ Solving LeetCode problems
 | 20| 10| 0|
 
 
-### [[Level 2]] -[Level 2](https://github.com/from-iqwerty-import-IQ/Leet-Code/blob/main/LeetCode%2075/Level%202.md)
-[[Level 2]]
+### [[Level 2]] -> [Level 2](https://github.com/from-iqwerty-import-IQ/Leet-Code/blob/main/LeetCode%2075/Level%202.md)
 | Easy| Medium| Hard|
 |--------------|:-----:|-----------:|
 | 11| 32| 2|
