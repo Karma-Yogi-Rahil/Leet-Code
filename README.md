@@ -14,22 +14,11 @@ Solving LeetCode problems
 
 
 ### [Level 2]()
-
+[[L]]
 | Easy| Medium| Hard|
 |--------------|:-----:|-----------:|
 | 11| 32| 2|
 
-Easy
-
-
-
-Medium
-
-32
-
-Hard
-
-2
 
 ![Level 3](https://assets.leetcode.com/static_assets/others/%E4%BC%9A%E5%91%98.png)
 
