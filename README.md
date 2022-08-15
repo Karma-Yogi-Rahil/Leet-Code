@@ -17,7 +17,7 @@ Solving LeetCode problems
 
 | Easy| Medium| Hard|
 |--------------|:-----:|-----------:|
-| 11| 10| 0|
+| 11| 32| 2|
 
 Easy
 
