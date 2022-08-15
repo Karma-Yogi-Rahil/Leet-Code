@@ -22,8 +22,6 @@ Solving LeetCode problems
 
 ###  [Level 3]()
 
-### Avg. 2～3 problems / day ｜ 25 day
-
 Easy
 
 4
