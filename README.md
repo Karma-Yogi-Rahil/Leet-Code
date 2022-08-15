@@ -20,7 +20,7 @@ Solving LeetCode problems
 | 11| 32| 2|
 
 
-# Level 3
+###  Level 3
 
 ### Avg. 2～3 problems / day ｜ 25 day
 
