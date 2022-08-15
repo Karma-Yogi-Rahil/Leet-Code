@@ -17,11 +17,11 @@ Solving LeetCode problems
 
 | Easy| Medium| Hard|
 |--------------|:-----:|-----------:|
-| 20| 10| 0|
+| 11| 10| 0|
 
 Easy
 
-11
+
 
 Medium
 
