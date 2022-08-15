@@ -14,7 +14,7 @@ Solving LeetCode problems
 
 
 ### [Level 2]()
-[[Level]]
+[[Level 2]]
 | Easy| Medium| Hard|
 |--------------|:-----:|-----------:|
 | 11| 32| 2|
