@@ -21,17 +21,7 @@ Solving LeetCode problems
 
 
 ###  [Level 3]()
+[[]]
 | Easy| Medium| Hard|
 |--------------|:-----:|-----------:|
 | 4| 43| 18|
-Easy
-
-4
-
-Medium
-
-43
-
-Hard
-
-18
