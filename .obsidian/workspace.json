@@ -25,24 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Top Interview Questions/README.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d6f7a5019d968336",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Top Interview Questions/Untitled Kanban.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Top Interview Questions/Untitled Kanban.md",
+                "file": "Top Interview Questions/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Top Interview Questions/Untitled Kanban.md",
+                "file": "Top Interview Questions/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Top Interview Questions/Untitled Kanban.md"
+                "file": "Top Interview Questions/README.md"
               }
             }
           }
@@ -159,10 +149,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d6f7a5019d968336",
+  "active": "abacf5bb3862aa02",
   "lastOpenFiles": [
-    "Top Interview Questions/README.md",
+    "Top Interview Questions/Untitled Kanban.md",
     "README.md",
+    "Top Interview Questions/README.md",
     "LeetCode 75/Level 1.md",
     "LeetCode 75/Level 2.md",
     "LeetCode 75/Level 3.md"
