@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "ad2e75df24418835",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef02a1cfba44fb98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d0d05a2f8f1abe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81a2b9e1621e0cc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc33ff8e2cfd80a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7d3b444b2199296",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c1d15b1bdaeeab6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae82fc8f47891e24",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c99af1055289fa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f7e3f66e15ed8ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5a059b3b6cef50a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c930f7b4d820b4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02eca3c6c82470c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f8455961705ea9f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5d0d05a2f8f1abe2",
+  "lastOpenFiles": [
+    "LeetCode 75/Level 1.md",
+    "LeetCode 75/Level 2.md",
+    "LeetCode 75/Level 3.md",
+    "README.md"
+  ]
+}
