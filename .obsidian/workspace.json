@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ef02a1cfba44fb98",
+        "id": "ce72755c15899175",
         "type": "tabs",
         "children": [
           {
-            "id": "5d0d05a2f8f1abe2",
+            "id": "0776d0bc7cedd00f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abacf5bb3862aa02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Top Interview Questions/README.md",
+                "file": "LeetCode 75/Level 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Top Interview Questions/README.md",
+                "file": "LeetCode 75/Level 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Top Interview Questions/README.md",
+                "file": "LeetCode 75/Level 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Top Interview Questions/README.md"
+                "file": "LeetCode 75/Level 1.md"
               }
             }
           }
@@ -149,11 +136,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "abacf5bb3862aa02",
+  "active": "a7d3b444b2199296",
   "lastOpenFiles": [
-    "Top Interview Questions/Untitled Kanban.md",
     "README.md",
     "Top Interview Questions/README.md",
+    "Top Interview Questions/Untitled Kanban.md",
     "LeetCode 75/Level 1.md",
     "LeetCode 75/Level 2.md",
     "LeetCode 75/Level 3.md"

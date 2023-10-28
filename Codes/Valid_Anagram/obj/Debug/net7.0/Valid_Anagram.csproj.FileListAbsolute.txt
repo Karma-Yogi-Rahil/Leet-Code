@@ -1,0 +1,14 @@
+A:\Github repos\Leet-Code\Codes\Valid_Anagram\bin\Debug\net7.0\Valid_Anagram.exe
+A:\Github repos\Leet-Code\Codes\Valid_Anagram\bin\Debug\net7.0\Valid_Anagram.deps.json
+A:\Github repos\Leet-Code\Codes\Valid_Anagram\bin\Debug\net7.0\Valid_Anagram.runtimeconfig.json
+A:\Github repos\Leet-Code\Codes\Valid_Anagram\bin\Debug\net7.0\Valid_Anagram.dll
+A:\Github repos\Leet-Code\Codes\Valid_Anagram\bin\Debug\net7.0\Valid_Anagram.pdb
+A:\Github repos\Leet-Code\Codes\Valid_Anagram\obj\Debug\net7.0\Valid_Anagram.GeneratedMSBuildEditorConfig.editorconfig
+A:\Github repos\Leet-Code\Codes\Valid_Anagram\obj\Debug\net7.0\Valid_Anagram.AssemblyInfoInputs.cache
+A:\Github repos\Leet-Code\Codes\Valid_Anagram\obj\Debug\net7.0\Valid_Anagram.AssemblyInfo.cs
+A:\Github repos\Leet-Code\Codes\Valid_Anagram\obj\Debug\net7.0\Valid_Anagram.csproj.CoreCompileInputs.cache
+A:\Github repos\Leet-Code\Codes\Valid_Anagram\obj\Debug\net7.0\Valid_Anagram.dll
+A:\Github repos\Leet-Code\Codes\Valid_Anagram\obj\Debug\net7.0\refint\Valid_Anagram.dll
+A:\Github repos\Leet-Code\Codes\Valid_Anagram\obj\Debug\net7.0\Valid_Anagram.pdb
+A:\Github repos\Leet-Code\Codes\Valid_Anagram\obj\Debug\net7.0\Valid_Anagram.genruntimeconfig.cache
+A:\Github repos\Leet-Code\Codes\Valid_Anagram\obj\Debug\net7.0\ref\Valid_Anagram.dll
